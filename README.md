@@ -1,9 +1,8 @@
 [Ai-Thinker GPRS C SDK](https://github.com/Ai-Thinker-Open/GPRS-C-SDK)
 =====
 
-Ai-Thinker GPRS SoC development SDK written by C
 
-安信可GPRS模组片上(SoC)开发SDK C语言版
+SDK de desarrollo módulo SoC Ai-Thinker GPRS escrito en C
 
 > This SDK can be also applied to RDA8955 raw chip
 > 也可直接在RDA8955芯片上运行
